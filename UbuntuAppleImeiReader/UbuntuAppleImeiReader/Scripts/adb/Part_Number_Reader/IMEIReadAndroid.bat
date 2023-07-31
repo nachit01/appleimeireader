@@ -1,0 +1,2 @@
+cd C:\Program Files (x86)\Android\android-sdk\platform-tools
+adb shell "service call iphonesubinfo 1 | grep -o '[0-9a-f]\{8\} ' | tail -n+3 | while read a; do echo -n \\u${a:4:4}\\u${a:0:4}; done" 1> C:\adb\Part_Number_Reader\AndroidIMEI.txt

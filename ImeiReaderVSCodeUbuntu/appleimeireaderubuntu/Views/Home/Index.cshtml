@@ -1,0 +1,30 @@
+﻿@model UbuntuAppleImeiReader.Models.PhoneInfo
+@{
+    ViewData["Title"] = "Apple IMEI Reader";
+}
+
+<h1 class="text-center"> Apple IMEI Reader  </h1>
+<h1 class="text-center" >************************</h>
+<div class="text-center">
+    <img src=@Model.image64 alt="Please connect an Apple Device and trust it ! ">
+    <h4 class="display-4">@Model.imei</h4>
+</div>
+
+<a  class:"h4" href="/Home/Index" id ="retryButton" >Run another Device! (Press Enter) </a>
+
+      
+
+    <script>
+        // Function to handle the key press event
+        function handleKeyPress(event) {
+            console.log("Key pressed:", event.key);
+          document.getElementById("retryButton").click();
+
+        }
+
+        // Add the key press event listener to the document
+        document.addEventListener("keypress", handleKeyPress);
+    </script>
+
+
+

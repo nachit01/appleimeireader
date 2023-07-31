@@ -1,0 +1,20 @@
+ERROR: You need to specify a COMMAND!
+
+idevicepair - Manage host pairings with devices and usbmuxd.
+
+Usage: idevicepair [OPTIONS] COMMAND
+
+ Where COMMAND is one of:
+  systembuid   print the system buid of the usbmuxd host
+  hostid       print the host id for target device
+  pair         pair device with this host
+  validate     validate if device is paired with this host
+  unpair       unpair device with this host
+  list         list devices paired with this host
+
+ The following OPTIONS are accepted:
+  -d, --debug      enable communication debugging
+  -u, --udid UDID  target specific device by UDID
+  -h, --help       prints usage information
+
+Homepage: <http://libimobiledevice.org>

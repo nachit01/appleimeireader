@@ -1,0 +1,6 @@
+Cable_Type|Pass|Fail|Damage||
+USB-A to USB-C|74|0|0||
+USB-C to USB-C|44|0|0||
+USB-A to Lightning|28|0|0||
+USB-C to Lightning|96|1|0||
+USB-A to Micro-USB|107|2|0||

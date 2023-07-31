@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+ 
+
+    @{
+        ViewData["Title"] = "Error !";
+    }
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>Device not plugged or not trusted !</h3>
+
+<p>Plese check that Apple Device is : 
+    <ul>
+        <li>Correctely plugged !</li>
+        <li>Trusted</li>
+    </ul>
+</p>
+
+<p>Troubleshoot : 
+    <ul>
+        <li>Change USB Cable</li>
+        <li>Change USB Port</li>
+    </ul>
+</p>
+
+    <a   href="/Home/Index" id ="retryButton" >Retry! (Press Enter) </a>
+
+      
+
+    <script>
+        // Function to handle the key press event
+        function handleKeyPress(event) {
+            console.log("Key pressed:", event.key);
+          document.getElementById("retryButton").click();
+
+        }
+
+        // Add the key press event listener to the document
+        document.addEventListener("keypress", handleKeyPress);
+    </script>
+
+
+</body>
+</html>

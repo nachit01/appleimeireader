@@ -1,0 +1,12 @@
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\UbuntuAppleImeiReader.exe
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\UbuntuAppleImeiReader.dll
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\UbuntuAppleImeiReader.deps.json
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\UbuntuAppleImeiReader.runtimeconfig.json
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\UbuntuAppleImeiReader.pdb
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\Zen.Barcode.Core.dll
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anachit\source\repos\UbuntuAppleImeiReader\UbuntuAppleImeiReader\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Drawing.Common.dll

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "veQehwaC++yXqTvssqhuLRMNSjA/zukhK03CtOYa/Bkiukqc10tRq7L3IXC37G4fJazXyxNO/ruWJl/APc2q1g==",
+  "success": true,
+  "projectFilePath": "/home/cpi1/usr/repo/IMEIReader/UbuntuAppleImeiReader/UbuntuAppleImeiReader/UbuntuAppleImeiReader.csproj",
+  "expectedPackageFiles": [
+    "/home/cpi1/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/home/cpi1/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/home/cpi1/.nuget/packages/zen.barcode.rendering.framework/3.1.10729.1/zen.barcode.rendering.framework.3.1.10729.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Zen.Barcode.Rendering.Framework 3.1.10729.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Zen.Barcode.Rendering.Framework",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
