@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RMyZXVPqXSLx+46/RU2jcZuvjyDyOBtMlRyaB+vfR+03bUH5UJFe1GjtnkX3q8QqlARFUKSzWB+GmCPUZnJbRQ==",
+  "dgSpecHash": "lan1Oo+jXHMUKBLhgv5JErwezPuYnADWa0Y7yzQCyjkEDt5tdMf0KpvkiENMUZPqwab0ia3tML3dJpZEy8z/Tg==",
   "success": true,
-  "projectFilePath": "/home/cpi1/usr/repo/IMEIReader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu/appleimeireaderubuntu.csproj",
+  "projectFilePath": "/home/cpi1/usr/repo/appleimeireader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu.csproj",
   "expectedPackageFiles": [
     "/home/cpi1/.nuget/packages/barcodelib/3.0.0/barcodelib.3.0.0.nupkg.sha512",
     "/home/cpi1/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",

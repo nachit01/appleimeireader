@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cpi1/usr/repo/IMEIReader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu/appleimeireaderubuntu.csproj": {}
+    "/home/cpi1/usr/repo/appleimeireader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu.csproj": {}
   },
   "projects": {
-    "/home/cpi1/usr/repo/IMEIReader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu/appleimeireaderubuntu.csproj": {
+    "/home/cpi1/usr/repo/appleimeireader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cpi1/usr/repo/IMEIReader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu/appleimeireaderubuntu.csproj",
+        "projectUniqueName": "/home/cpi1/usr/repo/appleimeireader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu.csproj",
         "projectName": "appleimeireaderubuntu",
-        "projectPath": "/home/cpi1/usr/repo/IMEIReader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu/appleimeireaderubuntu.csproj",
+        "projectPath": "/home/cpi1/usr/repo/appleimeireader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu.csproj",
         "packagesPath": "/home/cpi1/.nuget/packages/",
-        "outputPath": "/home/cpi1/usr/repo/IMEIReader/ImeiReaderVSCodeUbuntu/appleimeireaderubuntu/obj/",
+        "outputPath": "/home/cpi1/usr/repo/appleimeireader/ImeiReaderVSCodeUbuntu/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cpi1/.nuget/NuGet/NuGet.Config"
